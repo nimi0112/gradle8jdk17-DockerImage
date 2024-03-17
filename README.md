@@ -1,7 +1,9 @@
 # Dockerized Android Development Environment
 
 ## Introduction
-This Dockerfile provides a pre-configured environment for Android development within a Docker container.
+This Dockerfile provides a pre-configured environment for Android development within a Docker container  with 
+Gradle: 8
+JDK: 17
 
 ## Usage
 1. **Pull the Docker image:**
