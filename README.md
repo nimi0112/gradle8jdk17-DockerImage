@@ -6,7 +6,9 @@ Gradle: 8
 JDK: 17
 
 I could not find an image with the configurations I needed, so I made one. 
-Enjoy :confetti_ball: :confetti_ball:
+Enjoy :tada: :tada:
+
+Docker hub link: https://hub.docker.com/r/nimish0112/gradle8jdk17
 
 ## Here are the software components installed by the provided Dockerfile:
 
