@@ -23,7 +23,7 @@ Docker hub link: https://hub.docker.com/r/nimish0112/gradle8jdk17
 - Android platform tools
 - Android Support Repository
 - Google Maven Repository
-- ktlint (Kotlin code linter)
+- ktlint (Kotlin code linter): 1.2.1
 - Gradle 8.0
 
 ## The Dockerfile performs the following steps:
@@ -35,7 +35,7 @@ Docker hub link: https://hub.docker.com/r/nimish0112/gradle8jdk17
 5. Downloads and installs Android SDK tools, including SDK Manager.
 6. Accepts the Android SDK licenses.
 7. Updates the Android SDK and installs specific components like build tools, platforms, and platform tools.
-8. Installs ktlint for Kotlin code linting.
+8. Installs ktlint for Kotlin code linting v1.2.1.
 9. Installs Gradle 8.0 for building Android projects.
 10. Cleans up unnecessary files and packages to reduce image size.
 

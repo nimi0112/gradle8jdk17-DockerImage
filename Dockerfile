@@ -28,7 +28,7 @@ RUN apt-get update && \
     "extras;android;m2repository" \
     "extras;google;m2repository" && \
 # Install ktlint
-    curl -sSLO https://github.com/pinterest/ktlint/releases/download/0.42.1/ktlint && \
+    curl -sSLO https://github.com/pinterest/ktlint/releases/download/1.2.1/ktlint && \
     chmod a+x ktlint && \
     mv ktlint /usr/local/bin/ && \
 # Install Gradle 8.0
